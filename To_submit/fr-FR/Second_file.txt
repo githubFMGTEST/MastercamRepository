@@ -1,1 +1,1 @@
-Voici mon deuxième fichier.
+This is my second file. I am adding more content.
